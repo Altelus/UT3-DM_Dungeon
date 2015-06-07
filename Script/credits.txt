@@ -1,0 +1,9 @@
+CREDITS
+
+FirstMutator.u
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://forums.epicgames.com/showthread.php?t=724098
+
+SeqAction_LevelComplete.u
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://forums.epicgames.com/showthread.php?t=711277
